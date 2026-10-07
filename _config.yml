@@ -10,7 +10,7 @@ sections:
   title: Extended Abstracts
 volume: '350'
 year: '2026'
-start: &1 2026-09-02
+start: 2026-09-02
 end: 2026-09-04
 published: 2026-09-30
 conference_number: '5'
@@ -84,7 +84,7 @@ conference:
   url: https://2026.ecafconference.org/
   location: Ghent University, Ghent, Belgium
   dates:
-  - *1
+  - 2026-09-02
   - 2026-09-03
   - 2026-09-04
 analytics:
